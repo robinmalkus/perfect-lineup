@@ -68,15 +68,6 @@ function eachteam(id) {
     return true;
 }
 
-//Return false when lineup total greater then 45000.
-//Return a false if the lineup includes too few players from a single position.
-//Return false if too many plays from a single team
-//Return a false if lineup too many plays from a single game.
-//Return a false if lineup does not include a player from a position.
-
-
-
-
 
 
     //Line equal to or less then 2 players from a single team, return true. 
