@@ -68,8 +68,6 @@ function eachteam(id) {
     return true;
 }
 
-
-
     //Line equal to or less then 2 players from a single team, return true. 
     
 
