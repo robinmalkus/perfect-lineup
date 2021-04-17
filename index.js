@@ -75,11 +75,5 @@ function eachteam(id) {
 
 //Total equal to or less then $45,000 in a lineup
 //const validateLineup = (salary) => {
-   // salary.map(function(value) {
-   // console.log(amountSum)
-    //if (amountSum => 45000) {
-    // return true
-  // else {
-     //return false
-
+   // salary.map(function(value) 
 module.exports = validateLineup
